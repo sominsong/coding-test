@@ -1,1 +1,3 @@
-#coding-test
+# coding-test
+
+코딩 테스트 연습을 위한 풀이 코드 모음 공간입니다.
